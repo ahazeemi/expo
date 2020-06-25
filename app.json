@@ -1,0 +1,17 @@
+{
+  "name": "educative",
+  "displayName": "educative",
+  "expo": {
+    "name": "educative",
+    "slug": "educative",
+    "version": "1.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
